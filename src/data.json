@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "title":"chicken masala",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/farmer.jpg",
+        "price":150
+
+    },
+    {
+        "id":2,
+        "title":" Margherita pizza",
+        "content":" Made with real Mozzarella! Serves two starter portions ",
+        "img":"/assest/t.jpg",
+        "price":350
+
+    },
+    {
+        "id":3,
+        "title":"Sweet Masala",
+        "content":" White Cabbage Kimchi - Baek - 250g. Vegan, no fish sauce. ",
+        "img":"/assest/l.jpg",
+        "price":250
+
+    },
+    {
+        "id":4,
+        "title":"Nutritional Yeast",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/f.jpg",
+        "price":450
+
+    },
+    {
+        "id":5,
+        "title":"Kakdugi - Spicy",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/b.jpg",
+        "price":350
+
+    },
+    {
+        "id":6,
+        "title":"Chicken Lasange - Frozen",
+        "content":" 7 inch Pre cooked. Vegan, No fish-sauce Kimchi. Vegan, No fish-sauce ",
+        "img":"/assest/y.jpg",
+        "price":650
+
+    },
+    {
+        "id":7,
+        "title":"chicken masala",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/t.jpg",
+        "price":390
+
+    },
+    {
+        "id":8,
+        "title":" Baek - White Cabbage",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/sweet.jpg",
+        "price":250
+
+    },
+    {
+        "id":9,
+        "title":"chicken masala",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/l.jpg",
+        "price":500
+
+    },
+    {
+        "id":10,
+        "title":"chicken masala",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/b.jpg",
+        "price":800
+
+    },
+    {
+        "id":11,
+        "title":" Baek - White Cabbage",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/sweet.jpg",
+        "price":250
+
+    },
+    {
+        "id":12,
+        "title":"Kakdugi - Spicy",
+        "content":" Spicy Napa Cabbage Kimchi. Vegan, No fish-sauce Spicy Napal ",
+        "img":"/assest/farmer.jpg",
+        "price":350
+
+    }
+]
+   
